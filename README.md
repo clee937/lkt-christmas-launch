@@ -7,4 +7,4 @@ Christmas launch acquisitions email for Let’s Knit Together subscription servi
 HTML, CSS, Adobe Dreamweaver, Photoshop, Figma
 
 ## Live site
-View live site [here](https://clee937.github.io/lkt-christmas-launch/).
+View live [here](https://clee937.github.io/lkt-christmas-launch/).
